@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ample content by master
+=======
+added sample data 
+>>>>>>> dev
